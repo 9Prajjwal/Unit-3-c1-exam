@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+#products input {
+    width : 250px;
+}
+
+#products #add_product{
+    width : 258px;
+}
